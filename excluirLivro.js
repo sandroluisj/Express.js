@@ -3,7 +3,7 @@ const { livro } = require('../data')
 const excluirLivro = (req, res) => {
     const { id } = req.params;
     const index = livro.findIndex((l) => l.id == id)
-    flashcard.forEach((livros, index) => {   //aqui era com s no final fs
+    livro.forEach((livros, index) => {   //aqui era com s no final fs
         if (livros.livroId == id){
             livro.splice(index, 1);
         }
