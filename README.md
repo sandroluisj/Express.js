@@ -2,7 +2,7 @@
 
 # Objetivo: Ter uma oganização melhor entres os livros, estudantes e seus alugueis, de forma mais rápida e eficiente.
 
-## integrantes: Sandro, Kauane, Sheldon e Suháila.
+## integrantes: Sandro, Kauany, Sheldon e Suháila.
 
 ### Suháila: Fez os arquivos de data, index e readme.
 
