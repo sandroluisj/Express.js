@@ -8,6 +8,6 @@
 
 ### Sheldon: Realizou os arquivos remetentes aos livros.
 
-### Kauane: Desempenhou os arquivos de estudantes.
+### Kauany: Desempenhou os arquivos de estudantes.
 
 ### Sandro: Implemetou os arquivos de alugueis e buscas por elementos.
