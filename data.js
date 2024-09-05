@@ -7,7 +7,7 @@ let livro = [
     
 ]
 
-let estudante = [
+let estudantes = [
     {id: 1, nome: "João Felipe", matricula: "2024002", curso: "Sistemas da Informação", ano: 2024},
     {id: 2, nome: "Maria Eloisa", matricula: "2023001", curso: "Desing Gráfico", ano: 2023},
     {id: 3, nome: "Rafael Santos", matricula: "2022006", curso: "Medicina", ano: 2022},
@@ -23,4 +23,5 @@ let aluguel= [
     
 ]
 
-module.exports = {livro, estudante, aluguel}
+module.exports = {livro, estudantes, aluguel}
+
