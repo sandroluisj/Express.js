@@ -5,7 +5,8 @@ const autualizarAluguel = (req, res) =>{
     const novadatadealuguel = req.body.dataAluguel
     const novadatadevolução = req.body.datadevolução
     const algueis = aluguel.find((b) => b.id == id)
-    if(algueis){
+    
+    if(!algueis){
         return res.status (400).send({menssage: 'Aluguel não encontrado'})
 
     }
