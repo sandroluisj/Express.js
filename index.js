@@ -1,4 +1,3 @@
-
 const express = require('express')
 const app = express()
 const port = 3000
@@ -35,7 +34,7 @@ app.get('/',(req, res) => {
 app.post('/livro', criarLivros)
 app.get('/livro', listarLivros)
 app.put('/livro/:id', atualizarLivros)
-app.delete('/livro:id', excluirLivros)
+apsp.delete('/livro:id', excluirLivros)
 app.post('/aluno',adicionarAluno)
 app.get('/aluno',listarAluno)
 app.put('/aluno/:id', atualizarAluno)
